@@ -4,7 +4,7 @@ Bu proje, tamamen HTML, CSS, Bootstrap ve JavaScript kullanılarak oluşturulmu�
 
 Amacım, bilgi paylaşımının gücünü vurgulamak ve öğrendiklerimi uygulayarak faydalı bir proje ortaya koymaktı. Bu projede anlatılmak istenen temel fikir: Bilgi, paylaştıkça değerlenir.
 
-Umarım bu proje hem size ilham olur hem de kullanımınızda faydalı bir kaynak oluşturur. Öğrendiklerimizi hayata geçirmek ve paylaşmak dileğiyle…
+Umarım bu proje hem size ilham olur hem de kullanımınızda faydalı bir kaynak oluşturur. Öğrendiklerimizi hayata geçirmek ve paylaşmak dileğiyle ...
 
 <h2>Ekran Goruntusu <h2>
 
